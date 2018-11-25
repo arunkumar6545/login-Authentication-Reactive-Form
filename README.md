@@ -1,3 +1,5 @@
+This uses session management using local storage
+
 Angular 6 login with Session Authentication & Reactive Form Validation
 
     ng new project
